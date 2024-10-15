@@ -1,0 +1,15 @@
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\bin\Debug\net8.0\H1-consol.exe
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\bin\Debug\net8.0\H1-consol.deps.json
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\bin\Debug\net8.0\H1-consol.runtimeconfig.json
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\bin\Debug\net8.0\H1-consol.dll
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\bin\Debug\net8.0\H1-consol.pdb
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\H1-consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\H1-consol.AssemblyInfoInputs.cache
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\H1-consol.AssemblyInfo.cs
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\H1-consol.csproj.CoreCompileInputs.cache
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\H1-consol.sourcelink.json
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\H1-consol.dll
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\refint\H1-consol.dll
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\H1-consol.pdb
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\H1-consol.genruntimeconfig.cache
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\H1-consol\obj\Debug\net8.0\ref\H1-consol.dll

@@ -6,7 +6,7 @@
         {
             string name;
             float grade;
-            Console.WriteLine("student\t\tGrade\n");
+            Console.WriteLine("student\t\t\tGrade\n");
             name = "sophia :";
             grade = (93 + 87 + 98 + 95 + 100) / 5f;
             Console.WriteLine(name + "\t\t" + grade + "\tA");

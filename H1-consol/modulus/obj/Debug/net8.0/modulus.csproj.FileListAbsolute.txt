@@ -1,0 +1,15 @@
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\modulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\modulus.AssemblyInfoInputs.cache
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\modulus.AssemblyInfo.cs
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\modulus.csproj.CoreCompileInputs.cache
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\modulus.sourcelink.json
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\bin\Debug\net8.0\modulus.exe
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\bin\Debug\net8.0\modulus.deps.json
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\bin\Debug\net8.0\modulus.runtimeconfig.json
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\bin\Debug\net8.0\modulus.dll
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\bin\Debug\net8.0\modulus.pdb
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\modulus.dll
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\refint\modulus.dll
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\modulus.pdb
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\modulus.genruntimeconfig.cache
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\modulus\obj\Debug\net8.0\ref\modulus.dll
