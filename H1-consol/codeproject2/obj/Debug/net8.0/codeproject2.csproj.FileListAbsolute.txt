@@ -1,0 +1,15 @@
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\codeproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\codeproject2.AssemblyInfoInputs.cache
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\codeproject2.AssemblyInfo.cs
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\codeproject2.csproj.CoreCompileInputs.cache
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\codeproject2.sourcelink.json
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\bin\Debug\net8.0\codeproject2.exe
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\bin\Debug\net8.0\codeproject2.deps.json
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\bin\Debug\net8.0\codeproject2.runtimeconfig.json
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\bin\Debug\net8.0\codeproject2.dll
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\bin\Debug\net8.0\codeproject2.pdb
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\codeproject2.dll
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\refint\codeproject2.dll
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\codeproject2.pdb
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\codeproject2.genruntimeconfig.cache
+C:\Users\maan0015\source\repos\fundamentals-mathewtale\H1-consol\codeproject2\obj\Debug\net8.0\ref\codeproject2.dll
